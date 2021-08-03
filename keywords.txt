@@ -1,0 +1,24 @@
+SOMO_II	KEYWORD1
+volumeUp	KEYWORD2
+volumeDown	KEYWORD2
+setVolume	KEYWORD2
+getVolume	KEYWORD2
+playNext	KEYWORD2
+playPrevious	KEYWORD2
+playFolderTrack	KEYWORD2
+playTrack KEYWORD2
+repeatTrack	KEYWORD2
+play        KEYWORD2
+pause	KEYWORD2
+stop	KEYWORD2
+setSource	KEYWORD2
+setEQ	KEYWORD2
+setMode	KEYWORD2
+sleep	KEYWORD2
+reset	KEYWORD2
+isBusy	KEYWORD2
+getEQ	KEYWORD2
+getTracksUSB	KEYWORD2
+getTracksSD	KEYWORD2
+getTracksInFolder	KEYWORD2
+
